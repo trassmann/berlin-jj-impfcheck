@@ -1,5 +1,4 @@
 const axios = require("axios");
-const { promises: fs } = require("fs");
 const open = require("open");
 
 const johnsonDoctorIds = [
