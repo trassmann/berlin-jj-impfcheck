@@ -4,9 +4,8 @@ Checks doctolib for Johnson&Johnson Covid vaccine appointments each second, if o
 
 **Disclaimer**: Quick and dirty!
 
-Needs **Node 14 or later**!
-
 ## How to use
 
+- Needs **Node 14 or later**!
 - Clone the repo
 - Run `node index.js`
