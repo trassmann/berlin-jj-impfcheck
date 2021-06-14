@@ -70,7 +70,7 @@ const run = async () => {
           if (index > -1) {
             cooldowns.splice(index, 1);
           }
-        }, 15000);
+        }, 60000);
       }
     });
   });
