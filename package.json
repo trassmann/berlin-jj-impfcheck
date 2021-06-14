@@ -1,0 +1,24 @@
+{
+  "name": "berlin-jj-impfcheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trassmann/berlin-jj-impfcheck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trassmann/berlin-jj-impfcheck/issues"
+  },
+  "homepage": "https://github.com/trassmann/berlin-jj-impfcheck#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "open": "^8.2.0"
+  }
+}
