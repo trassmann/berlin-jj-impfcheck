@@ -19,6 +19,8 @@
   "homepage": "https://github.com/trassmann/berlin-jj-impfcheck#readme",
   "dependencies": {
     "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "lodash": "^4.17.21",
     "open": "^8.2.0"
   }
 }
